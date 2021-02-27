@@ -1,6 +1,6 @@
 # NFL-Project
 
-One of my Master's projects: reverse engineering the NFL passer rating formula.
+Master's Projects: reverse engineering the NFL passer rating formula.
 
 PDF (.pdf): Entire Project, formatted (code snippets and output)  
 R Markdown (.Rmd): Entire Project, markdown (just code)  
